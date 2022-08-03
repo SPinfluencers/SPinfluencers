@@ -19,4 +19,4 @@ I like playing board games🃏 & solving puzzles🧩.
 Connect with me on [Twitter](https://twitter.com/sagarpawar1493) or [LinkedIn](https://www.linkedin.com/in/sagar-pawar-285474113/).
 
 ### 💬 Want to know more about me?
-You can find my work on my [Portfolio](https://github.com/).
+You can find my work on my [Portfolio](https://sagar-portfolio-spinfluencers.vercel.app/).
