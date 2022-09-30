@@ -1,5 +1,8 @@
 # Hi there -👋
-<!-- <img src="https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif"> -->
+<img
+width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen
+src="https://giphy.com/embed/g06HKnMmtK1aXurndU">
+
 <iframe src="https://giphy.com/embed/g06HKnMmtK1aXurndU" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/KeepCoding-developer-programmer-home-work-g06HKnMmtK1aXurndU">via GIPHY</a></p>
 
 I am Sagar Pawar from Mumbai, India. I am Aspiring Full Stack Web Developer, MERN, Javascript and its frameworks.
