@@ -70,7 +70,7 @@
 
 <p align="left">
     <a href="https://lnkd.in/dqF-uQcZ" target="blank">
-        <img src="https://cdn.mos.cms.futurecdn.net/Ziv82j6YvdrvHqmxYjiTo3-1200-80.png" alt="Myntra-Clone" />
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Myntra Clone&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="Myntra-Clone" />
     </a>
 </p>
 <br>
@@ -79,7 +79,7 @@
 
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
-<h2><i>Let's Connect</i></h2>
+<!-- <h2><i>Let's Connect</i></h2>
 
 
 <p align="left">
@@ -96,25 +96,25 @@
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mohitsehrawat000@gmail.com" />
     </a>
 </p>
-<br>
+<br> -->
 
 
 
 <!----------------------------------- GitHub Stats Section ------------------------------------>
 
-<h2><i>My GitHub Stats</i></h2>
+<!-- <h2><i>My GitHub Stats</i></h2>
 
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-sehrawat&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="m-sehrawat" height="139" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-sehrawat&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="m-sehrawat" height="139" />
 </p>
-<br>
+<br> -->
 
 
 
 <!----------------------------------- Top Repository Section ------------------------------------>
 
-<h2><i>Top Repositories</i></h2>
+<!-- <h2><i>Top Repositories</i></h2>
 
 
 <p>
@@ -143,4 +143,4 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Adidas-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
     </a>
     
-</p>
+</p> -->
