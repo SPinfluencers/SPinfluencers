@@ -70,7 +70,7 @@
 
 <p align="left">
     <a href="https://lnkd.in/dqF-uQcZ" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Myntra Clone&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="Myntra-Clone" />
+        <img src="https://cdn.mos.cms.futurecdn.net/Ziv82j6YvdrvHqmxYjiTo3-1200-80.png" alt="Myntra-Clone" />
     </a>
 </p>
 <br>
