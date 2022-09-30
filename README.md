@@ -1,4 +1,6 @@
 # Hi there -👋
+<img src="https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif">
+
 I am Sagar Pawar from Mumbai, India. I am Aspiring Full Stack Web Developer, MERN, Javascript and its frameworks.
 
 ### 😄 Pronouns
