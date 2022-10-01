@@ -85,7 +85,7 @@
 
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
-<!-- <h2><i>Let's Connect</i></h2>
+<h2><i>Let's Connect</i></h2>
 
 
 <p align="left">
@@ -102,7 +102,7 @@
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mohitsehrawat000@gmail.com" />
     </a>
 </p>
-<br> -->
+<br>
 
 
 
