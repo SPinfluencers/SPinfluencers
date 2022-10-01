@@ -89,17 +89,17 @@
 
 
 <p align="left">
-    <a href="https://linkedin.com/in/m-sehrawat">
+    <a href="https://www.linkedin.com/in/sagar-pawar-285474113/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/m-sehrawat" />
     </a>
-    <a href="https://twitter.com/MohitSehrawatt">
+    <a href="https://twitter.com/sagarpawar1493">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/MohitSehrawatt" />
     </a>
-    <a href="https://mohit-portfolio.vercel.app/">
+    <a href="sagar-pawar-portfolio.vercel.app/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://mohit-portfolio.vercel.app/" />
     </a>
-    <a title="mohitsehrawat000@gmail.com" href="mailto:mohitsehrawat000@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mohitsehrawat000@gmail.com" />
+    <a title="sagarpawar1493@gmail.com" href="mailto:sagarpawar1493@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sagarpawar1493@gmail.com" />
     </a>
 </p>
 <br>
