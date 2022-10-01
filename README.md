@@ -120,7 +120,7 @@
 
 <!----------------------------------- Top Repository Section ------------------------------------>
 
-<!-- <h2><i>Top Repositories</i></h2>
+<h2><i>Top Repositories</i></h2>
 
 
 <p>
@@ -149,4 +149,4 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Adidas-Clone&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
     </a>
     
-</p> -->
+</p>
