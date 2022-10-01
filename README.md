@@ -95,7 +95,7 @@
     <a href="https://twitter.com/sagarpawar1493">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/MohitSehrawatt" />
     </a>
-    <a href="sagar-pawar-portfolio.vercel.app/">
+    <a href="https://sagar-portfolio-spinfluencers.vercel.app/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://mohit-portfolio.vercel.app/" />
     </a>
     <a title="sagarpawar1493@gmail.com" href="mailto:sagarpawar1493@gmail.com">
