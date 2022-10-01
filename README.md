@@ -72,6 +72,12 @@
     <a href="https://lnkd.in/dqF-uQcZ" target="blank">
             <img src="https://img.shields.io/badge/Myntra Clone-f44d27?style=for-the-badge&logo=&logoColor=white" alt="Myntra Clone" />
     </a>
+    <a href="https://lnkd.in/e7A5sUuf" target="blank">
+            <img src="https://img.shields.io/badge/Jio-Mart%20UI-007FFF?style=for-the-badge&logo=Jio-Mart&logoColor=white" alt="Jio-Mart" />        
+    </a>
+    <a href="https://lnkd.in/dRhxCN3j" target="blank">
+            <img src="https://img.shields.io/badge/BlueFly-339933?style=for-the-badge&logo=BlueFly&logoColor=white" alt="BlueFly" />
+    </a>
 </p>
 <br>
 
