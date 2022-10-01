@@ -24,7 +24,7 @@
 
 <h3>
     <i>- I’m currently working on Reactjs</i><br />
-    <i>- Ask me about Html,CSS,JavaScript,ReactJs</i>
+    <i>- Ask me about Html, CSS, JavaScript, ReactJs</i>
 </h3>
 <br>
 
