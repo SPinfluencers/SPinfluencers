@@ -70,8 +70,7 @@
 
 <p align="left">
     <a href="https://lnkd.in/dqF-uQcZ" target="blank">
-            <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=&logoColor=white" alt="Myntra Clone" />
-
+            <img src="https://img.shields.io/badge/Myntra Clone-f44d27?style=for-the-badge&logo=&logoColor=white" alt="Myntra Clone" />
     </a>
 </p>
 <br>
