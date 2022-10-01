@@ -73,7 +73,7 @@
             <img src="https://img.shields.io/badge/Myntra Clone-f44d27?style=for-the-badge&logo=&logoColor=white" alt="Myntra Clone" />
     </a>
     <a href="https://lnkd.in/e7A5sUuf" target="blank">
-            <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />       
+            <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=&logoColor=white" alt="Jio-Mart" />       
     </a>
     <a href="https://lnkd.in/dRhxCN3j" target="blank">
             <img src="https://img.shields.io/badge/BlueFly-339933?style=for-the-badge&logo=BlueFly&logoColor=white" alt="BlueFly" />
