@@ -127,7 +127,6 @@
 
 <p align="center">
    <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=SPinfluencers&theme=dark" /> <br \>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SPinfluencers&show_icons=true&locale=en&theme=dark"/>
 </p>
 
 
