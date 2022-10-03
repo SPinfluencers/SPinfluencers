@@ -125,6 +125,12 @@
 <br>
 
 
+<p align="center">
+   <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=harishrayala&theme=dark" /> <br \>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=harishrayala&show_icons=true&locale=en&theme=dark"/>
+</p>
+
+
 
 <!----------------------------------- Top Repository Section ------------------------------------>
 
